@@ -1,0 +1,2 @@
+
+<p>Bonjour <?= $username ?></p>
